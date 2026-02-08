@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Hey! I'm Cameron and I make shitty programs on the Internet.</p>
+<p align="center">Hey! I'm Cameron and I make shitty programs on the Internet, including or not limited to websites too.</p>
 
 ###
 
