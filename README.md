@@ -1,5 +1,3 @@
-> **Tip:** On GitHub, to open links in a new tab, use <kbd>Ctrl</kbd>+Click (Windows/Linux) or <kbd>Cmd</kbd>+Click (Mac).
-
 ###
 
 <p align="center">Hey! I'm Cameron and I make shitty programs on the Internet, including but not limited to websites too.</p>
