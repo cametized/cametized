@@ -3,15 +3,6 @@
 <p align="center">Hey! I'm Cameron and I make shitty programs on the Internet, including but not limited to websites too.</p>
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31v5o2dh5w2kfgbpgxppfzecovpm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31v5o2dh5w2kfgbpgxppfzecovpm&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
   <img width="12" />
