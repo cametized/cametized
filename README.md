@@ -8,6 +8,8 @@
 
 ###
 <div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/devicon/devicon-original.svg" height="40" alt="DevIcon, the icons you're seeing now!"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python 3.10"  />
