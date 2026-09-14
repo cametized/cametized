@@ -2,15 +2,21 @@
 
 <p align="center">Hey! I'm Cametized and I make semi-generic programs on the Internet, and I have an affinity to making my own community content for games such as Minecraft and Steam Workshop Contributions!</p>
 <br>
-<p align="center">You can find my website over at: https://cametized.xyz !</p>
+<p align="center">You can find my website over at: https://cametized.xyz!</p>
+<hr>
+<p align="center">Things I use to make my work come together:</p>
 
 ###
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python 3.10"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/visualstudio/visualstudio-original.svg" height="40" alt="Visual Studio"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA 2026" height="40"/>
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40"/>
   <img width="12" />
@@ -18,20 +24,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/>
   <img width="12" />
-  <a href="https://www.youtube.com/@Cametized" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/filezilla/filezilla-original.svg" alt="FileZilla" height="40"/>
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/putty/putty-original.svg" alt="PuTTY" height="40"/>
 </div>
-
-###
-
-<div align="center">
-  
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cametized&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
