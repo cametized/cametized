@@ -1,6 +1,6 @@
 ###
 
-<p align="center">Hey! I'm Cametized and I make shitty programs on the Internet, including but not limited to websites too.</p>
+<p align="center">Hey! I'm Cametized and I make semi-generic programs on the Internet, and I have an affinity to making my own community content for games such as Minecraft and Steam Workshop Contributions!</p>
 
 ###
 <div align="center">
