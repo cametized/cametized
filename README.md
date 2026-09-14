@@ -1,6 +1,8 @@
 ###
 
 <p align="center">Hey! I'm Cametized and I make semi-generic programs on the Internet, and I have an affinity to making my own community content for games such as Minecraft and Steam Workshop Contributions!</p>
+<br>
+<p align="center">You can find my website over at: https://cametized.xyz !</p>
 
 ###
 <div align="center">
@@ -33,4 +35,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cametized&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-https://cametized.xyz
