@@ -1,6 +1,6 @@
 ###
 
-<p align="center">Hey! I'm Cametized and I make semi-generic programs on the Internet, and I have an affinity to making my own community content for games such as Minecraft and Steam Workshop Contributions!</p>
+<p align="center">Hey! I'm Cametized and I make semi-generic programs on the internet, and I have an affinity to making my own community content for games such as Minecraft and Steam Workshop Contributions!</p>
 <br>
 <p align="center">You can find my website over at: https://cametized.xyz!</p>
 <hr>
